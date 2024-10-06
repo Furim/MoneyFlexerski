@@ -29,7 +29,7 @@ The inspiration came to me from the simple fact that there is no simple app to t
 
 Currently im working on the Linux binary, but the windows one or macOS, i need someone that have this specific hardware, because its impossible to compile the app from the linux to windows or MacOS or iPhone(.ipa)
 
-#Current bugs to fix out:
+# Current bugs to fix out:
 
 Chart bugs out when income or expense is too high (the labels on y axis)
 Zoom in and Zoom out does not scale right as should corresponding to grid
