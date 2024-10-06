@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "MoneyFlexerski"
+version = "0.1.0"
+description = "Flet app, u can write anything here tbh"
+authors = ["Your Name <you@example.com>"]
+[tool.poetry.dependencies]
+python = "^3.9"
+flet = "^0.4.0"
+tinydb = "^4.7.0"
+[build-system]
+requires = ["flet", "tinydb"]
+build-backend = "setuptools.build_meta"
+[tool.flet]
+app_name = "Finances-and-stuff"
